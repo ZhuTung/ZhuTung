@@ -1,4 +1,5 @@
 ## 👋 Hello, I am Lee Zhu Tung. Welcome to my GitHub Profile.
+I am a Software Engineer.
 Feel free to have a look at my repo at what I did in my free time. 
 ## 🚀 Skills & Tools
 
